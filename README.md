@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I’m Daria
 
-<!--
-**Dariaarx/Dariaarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Project Experience & Motivation  
+- 🎓 Graduated from the **Data Analyst program at Yandex Practicum**   
+- 📈 Completed several end-to-end projects: data analysis, visualization, dashboards
+- 📊 Skilled in **Python**, **SQL**, **Tableau**, **Customer Retention Analysis**, and **A/B Testing Study** 
+- 🎯 Моя мотивация — применить полученные знания в реальных проектах, развиваться в машинном обучении и использовать данные для бизнес-решений
 
-Here are some ideas to get you started:
+📬 Contact Me
+	•	📫 https://t.me/@dasha_arkharova
+	•	📧 Email: dashamzt@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
